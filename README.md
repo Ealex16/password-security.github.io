@@ -5,7 +5,7 @@ But, there are ways to get away from that issue. Your first step in choosing a s
 That is a basic form of how to protect yourself from getting hacked. Being hacked is a scary thing and to recover the lost items you lose. It may take quite a while to do. Also, good hackers can make it look like the money or good lost were never lost in the first place. Also, be aware of all different types of hackers. Because hackers come in all different ways we’d never expect. So, make sure to take your password security seriously because if you don’t you may regret it one day.
 </p>
 <style>
-  p {font-size: 300%;
+  p {font-size: 250%;
      font-family: Times New Roman;
      }
 </style>
